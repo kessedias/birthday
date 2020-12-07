@@ -6,8 +6,11 @@
   -webkit-box-sizing: border-box;
 }
 body {
-  background: #E5E5E5;
-  background-image: url("/gray-floral.png");
+  background: #010405;
+  background-image: url('bento.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: initial;
   padding: 50px;
 }
 
