@@ -1,28 +1,23 @@
 window.onclick = changeQuarto;
 
 
-function changeQuarto(){
+function changeQuarto() {
     var primeiro = document.getElementById('primeiro');
-    primeiro.innerHTML = 'E';
+    primeiro.innerHTML = 'C';
     var segundo = document.getElementById('segundo');
-    segundo.innerHTML = 'U';
+    segundo.innerHTML = 'A';
     var terceiro = document.getElementById('terceiro');
-    terceiro.innerHTML = ' ';
+    terceiro.innerHTML = 'R';
     var quarto = document.getElementById('quarto');
-   quarto.innerHTML = 'T';
-   var quinto = document.getElementById('quinto');
-    quinto.innerHTML = 'E';
+    quarto.innerHTML = 'A';
+    var quinto = document.getElementById('quinto');
+    quinto.innerHTML = 'I';
     var sexto = document.getElementById('sexto');
-    sexto.innerHTML = ' ';
+    sexto.innerHTML = 'O';
     var setimo = document.getElementById('setimo');
-    setimo.innerHTML = 'A';
+    setimo.innerHTML = 'O';
     var oitavo = document.getElementById('oitavo');
-    oitavo.innerHTML = 'M';
+    oitavo.innerHTML = 'O';
     var nono = document.getElementById('nono');
-    nono.innerHTML = 'O';
+    nono.innerHTML = '!';
 };
-
-
-
-
-
